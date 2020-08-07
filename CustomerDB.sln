@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerDB", "DesktopContactsApp\CustomerDB.csproj", "{01BC5652-957C-4BF9-8F29-C62CCC3D82B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BC5652-957C-4BF9-8F29-C62CCC3D82B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BC5652-957C-4BF9-8F29-C62CCC3D82B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BC5652-957C-4BF9-8F29-C62CCC3D82B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BC5652-957C-4BF9-8F29-C62CCC3D82B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B704F0-D1CB-42E9-9D92-98D46D17D076}
+	EndGlobalSection
+EndGlobal
